@@ -13,8 +13,7 @@ reference your code with your writeup.
 import pandas as pd
 from sklearn.metrics import f1_score
 
-# TODO: Replace with your Student Number
-_STUDENT_NUM = 'A01234567X'
+_STUDENT_NUM = 'A0168932U'
 
 def train_model(model, X_train, y_train):
     ''' TODO: train your model based on the training data '''
